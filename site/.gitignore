@@ -34,13 +34,3 @@ site/.vercel
 # typescript
 site/*.tsbuildinfo
 site/next-env.d.ts
-
-# Anchor
-
-contract/.anchor
-contract/.DS_Store
-contract/target
-contract/**/*.rs.bk
-contract/node_modules
-contract/test-ledger
-contract/.yarn
